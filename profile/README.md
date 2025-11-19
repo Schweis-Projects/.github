@@ -22,7 +22,7 @@
 <div align="center">
 <h3>Contact Information</h3>
 
-<a href="https://t.me/Nativez248" target="_blank">
+<a href="https://t.me/nativezpay" target="_blank">
 <img src="https://img.shields.io/badge/Telegram%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <a href="https://github.com/natiware" target="_blank">
