@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="BANNER_LINK_HERE" width="100%">
+<img src="https://github.com/Schweis-Projects/.github/blob/main/images/SchweisLogo.jpeg" width="100%">
 
 </div>
 
