@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Schweis-Projects/.github/blob/main/images/SchweisLogo.jpeg" width="100%">
+<img src="https://github.com/Schweis-Projects/.github/blob/main/images/SchweisLogo.jpeg" width="60%">
 
 </div>
 
